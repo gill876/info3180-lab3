@@ -11,3 +11,7 @@ venv/
 
 # PyCharm
 .idea
+
+# __init__.py below app = Flask(__name__)
+init_removed_for_git.txt
+
